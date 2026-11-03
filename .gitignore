@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# plots made by plan_demo.py
+/*.png
